@@ -39,7 +39,6 @@ router.post('/', async (req, res) => {
     const dbTagData = await Tag.create(req.body);
     res.status(200).json(dbTagData);
   } catch (err) {
-    console.log(err);
     res.status(500).json(err);
   }
 });
