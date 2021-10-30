@@ -25,6 +25,7 @@ To run this application, the user must first run npm install, add their credenti
 ## Usage 
 
 Please see below for a video walkthrough of the application's functionality. 
+![e-commerce-back-end](https://user-images.githubusercontent.com/89615676/139514392-9b315c01-4c82-42de-ade7-e06b832ff4ad.gif)
 
 ## License
 
